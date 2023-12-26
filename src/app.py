@@ -51,6 +51,6 @@ st.write("## Исходный Код")
 
 st.write(
     "Можно посмотреть на [GitHub]"
-    "(https://github.com/streamlit/example-app-time-series-annotation)"
+    "(https://github.com/chumanastasia/mfti_project_team_21)"
 )
 
